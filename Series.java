@@ -14,9 +14,8 @@ public class Series {
 		
 		for(int i=2;i<=n;i++)
 		{
-			sum=sum+(1/i);
+			sum+=((double)1/i);
 		}
-		sum=1+sum;
 		
 		System.out.println(sum);
 		
