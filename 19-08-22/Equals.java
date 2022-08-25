@@ -1,3 +1,4 @@
+//WAP that takes four integer and prints equal if all four are equal else not equal
 package demo.java;
 
 public class Equals {
