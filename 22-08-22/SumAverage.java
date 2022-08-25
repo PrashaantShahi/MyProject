@@ -1,3 +1,4 @@
+//WAP in java to input 5 number from keyboard and find their sum and average
 package demo.java;
 
 import java.util.*;
