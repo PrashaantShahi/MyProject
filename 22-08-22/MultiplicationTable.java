@@ -1,3 +1,4 @@
+//WAP in java to display the multiplication table of agive integer
 package demo.java;
 
 import java.util.Scanner;
