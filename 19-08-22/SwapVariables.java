@@ -1,3 +1,4 @@
+//WAP to swap two variables
 package demo.java;
 
 public class SwapVariables {
