@@ -1,3 +1,4 @@
+//WAP to solve quadratic equations(use if,else if and else)
 package demo.java;
 
 public class QuadraticEquation {
