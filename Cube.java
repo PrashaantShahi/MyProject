@@ -1,3 +1,4 @@
+//WAP in java to display the cube of the number upon given an integer
 package demo.java;
 
 import java.util.Scanner;
