@@ -1,3 +1,4 @@
+//WAP in java to input a number and print its factorial
 package demo.java;
 
 import java.util.Scanner;
