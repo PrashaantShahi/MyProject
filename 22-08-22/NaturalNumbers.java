@@ -1,3 +1,4 @@
+//wap in java to display n terms of natural numbers and their sum
 package demo.java;
 
 import java.util.Scanner;
