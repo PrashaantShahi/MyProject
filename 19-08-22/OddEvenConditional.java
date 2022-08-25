@@ -1,3 +1,4 @@
+//WAP to find whether the number is ever or odd using conditional operator
 package demo.java;
 
 public class OddEvenConditional {
