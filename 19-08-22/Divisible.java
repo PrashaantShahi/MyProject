@@ -1,3 +1,4 @@
+//WAP to check whether te number is divisible by 5 as well as 3.
 package demo.java;
 
 public class Divisible {
