@@ -1,3 +1,7 @@
+/*Create a class complex having a real part(x) and an imaginary part(y). Provide methods to perform the following on complex numbers:
+1. Add two complex numbers
+2. Multiply two complex numbers*/
+
 package assignment.java;
 
 public class Complex {
