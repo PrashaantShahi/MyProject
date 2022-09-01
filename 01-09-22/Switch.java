@@ -1,3 +1,5 @@
+/*Implement switch caase in the above enum example where a single value of object m is checked against all the cases
+of the switch case.Based on the value of m ,the particular case should be implemented*/
 package assignment.java;
 
 enum Month{
