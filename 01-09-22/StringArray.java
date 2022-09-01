@@ -1,3 +1,4 @@
+//WAp to input an array having 5 strings and display them
 package assignment.java;
 
 public class StringArray {
