@@ -10,10 +10,11 @@ public class ArraySearch {
 	{
 		
 		int arr[]= new int[5];
+		int i;
 		boolean flag=false;
 		Scanner sc=new Scanner(System.in);
 		
-		for(int i=0;i<5;i++)
+		for( i=0;i<5;i++)
 		{
 			
 			
@@ -27,7 +28,7 @@ public class ArraySearch {
 		
 		int a=sc.nextInt();
 		
-		for(int i=0;i<5;i++)
+		for( i=0;i<5;i++)
 		{
 			if(arr[i]==a)
 			{
@@ -38,6 +39,8 @@ public class ArraySearch {
 			{
 				flag=false;
 			}
+		
+		}
 			if(flag==true)
 			{
 				System.out.println("Element found at position:"+(i+1));
@@ -47,7 +50,6 @@ public class ArraySearch {
 			{
 				System.out.println("Element not found");
 			}
-		}
 		
 		
 		
