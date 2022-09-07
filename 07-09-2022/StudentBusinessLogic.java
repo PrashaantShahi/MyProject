@@ -8,7 +8,7 @@ public class StudentBusinessLogic {
 		double tmarks=0;
 		tmarks=s.getMk1()+s.getMk2()+s.getMk3();
 		
-		percent=(tmarks/100)* 100;
+		percent=(tmarks/300)* 100;
 		
 		return percent;
 		
