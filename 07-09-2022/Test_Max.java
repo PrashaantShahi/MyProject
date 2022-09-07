@@ -1,3 +1,4 @@
+/* Create a junit test case for finding the maximum value in an array*/
 package demo.java.JavaUnit;
 
 import static org.junit.jupiter.api.Assertions.*;
