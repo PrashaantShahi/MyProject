@@ -1,3 +1,4 @@
+//WAP to count the number of letters in a given file
 package newAssignment;
 
 import java.io.FileInputStream;
